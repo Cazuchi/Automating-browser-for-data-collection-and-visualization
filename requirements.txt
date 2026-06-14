@@ -1,0 +1,7 @@
+pandas
+dataframe_image
+matplotlib
+numpy
+playwright
+ipykernel
+openpyxl
