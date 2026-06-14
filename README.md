@@ -14,7 +14,7 @@ This is a simple script I wrote that uses Playwright to automate a Chromium brow
 * Load the data from the downloaded .csv file and format it into a compressed, easy-to-read visual format for use in presentations
 
 The output looks like this:  
-![Script output](Benchmarking Alliance occupancy overview.png)
+![Script output]("Benchmarking Alliance occupancy overview.png")
 
 ### Skills used:
 * Playwright / Browser automation
