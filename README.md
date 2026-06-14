@@ -14,7 +14,9 @@ This is a simple script I wrote that uses Playwright to automate a Chromium brow
 * Load the data from the downloaded .csv file and format it into a compressed, easy-to-read visual format for use in presentations
 
 The output looks like this:  
-![Script output](Benchmarking%20Alliance%20occupancy%20overview.png)
+![Script output](Benchmarking%20Alliance%20occupancy%20overview.png)  
+The table shows the occupancy rates for hotels in Copenhagen City per day, per month with specific highlights in yellow for days with lower occupancy and highlights in green for days with higher occupany.  
+Used to figure out and showcase what times of the year that there is the most room for added tourism activity for a given year.
 
 ### Skills used:
 * Playwright / Browser automation
