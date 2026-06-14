@@ -25,7 +25,7 @@ def download_data():
 
     with sync_playwright() as p:
         # Opens browser
-        browser = p.chromium.launch(headless=False, slow_mo=1000) # headless=False shows the browser, True hides it
+        browser = p.chromium.launch(headless=True, slow_mo=1000) # headless=False shows the browser, True hides it
         page = browser.new_page()
         
         page.goto("https://app.benchmarkingalliance.com/#/login/")
