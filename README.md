@@ -10,6 +10,8 @@ This is a simple script I wrote that uses Playwright to automate a Chromium brow
 * Download the desired dataset with hotel statistics and save it in the project folder
 * Load the data from the downloaded .csv file and format it into a compressed, easy-to-read visual format for use in presentations
 
+Since the script requires login info, but also needs to be usable by more than one person, it simply asks for login information from the user in the PowerShell terminal window.
+
 The output looks like this:  
 ![Script output](Benchmarking%20Alliance%20occupancy%20overview.png)  
 The table shows the occupancy rates for hotels in a select geographic area per day, per month with specific highlights in yellow for days with lower occupancy and highlights in green for days with higher occupany. Used to figure out and showcase what times of the year that there is the most room for added tourism activity for a given year.
