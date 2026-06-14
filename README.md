@@ -13,7 +13,7 @@ This is a simple script I wrote that uses Playwright to automate a Chromium brow
 Since the script requires login info, but also needs to be usable by more than one person, it simply asks for login information from the user in the PowerShell terminal window.
 
 The output looks like this:  
->[!NOTE]
+>[!IMPORTANT]
 >The data shown in the image is **MOCK** data. It broadly mimicks real trends, but is randomized and varies significantly from real data.  
 
 ![Script output](Benchmarking%20Alliance%20occupancy%20overview.png)  
